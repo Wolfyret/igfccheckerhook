@@ -32,3 +32,7 @@ Run it  :D
 ```bash
   python3 py.py
 ```
+## Support
+
+For support, DM on discord @wolfyoy. :)
+
