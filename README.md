@@ -27,7 +27,7 @@ Install python libraries
   pip install -r requirements.txt
 ```
 
-Run it  :D
+Create some webhook on discord, run it and do what the program says  :D
 
 ```bash
   python3 py.py
