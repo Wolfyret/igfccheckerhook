@@ -1,8 +1,7 @@
 # igfccheckerhook
 A python program that check if indiegala feudalife challenge is currently playable and sends discord hooks.
 
-!!WARNING!! This program is at very alpha stage, and may not function correctly.
-
+!!WARNING!! USE AT OWN RISK
 
 
 ## Installation and running
