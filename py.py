@@ -30,7 +30,7 @@ while True:
                 webhook.send("IGFC is not live :red_circle:")  
                 last ='not'
 
-        time.sleep(data['time'])
+        time.sleep(int(data['time']))
     else:
         dchooklink = input('Your discord hook link: ')
         print('creating settings.ini')
