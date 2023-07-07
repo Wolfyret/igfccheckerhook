@@ -19,6 +19,8 @@ while True:
         data = dict(config.items('data'))
         print(data)
         webhook = SyncWebhook.from_url(data['discordhooklink'])
+        if data['version'] != '0.0.2':
+            config.set("data", "version", '0.0.2')
         if prob in r.text:
             print('Live')
             if last!='live':
